@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.tracking
     - navigation.sections
+    - navigation.top
     - toc.follow
 
 extra_css:
